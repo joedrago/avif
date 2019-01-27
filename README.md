@@ -6,6 +6,9 @@ TBW
 
 You need CMake and nasm.
 
+### Windows builds
+Windows builds for x86-64 processors can be found on [AppVeyor](https://ci.appveyor.com/project/joedrago/avif) under the Artifacts tab of each build. Recommended is a build from the master branch. 
+
 ---
 
 # License
