@@ -14,7 +14,7 @@ install:
 
 before_build:
   - cmake --version
-  - cmake
+  - cmake %CD%
 
 build_script: cmake_build\avif.sln
 
